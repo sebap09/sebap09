@@ -11,46 +11,16 @@ I'm a Test Automation Developer with about 2 years of commercial experience. My 
 
 ## 💼 My Experience
 
-<div style="display: flex; margin-left:40px;margin-bottom:-10px">
-    <strong style="padding: 0;">Test Automation Developer</strong>
-    <p style="padding: 0; margin-left:5px ">(Since August 2022):</p>
-</div>
-<p style="padding: 0; margin-left:40px">
+**Test Automation Developer** (Since August 2022):
+
 Responsible for designing, developing, and maintaining automated test suites customized for Salesforce applications. Creating robust CI/CD pipelines using Jenkins to ensure continuous integration and testing throughout the development lifecycle. Automating test scenarios for both mobile and web platforms, leveraging industry-leading frameworks such as Appium and WebdriverIO. Optimizing test efficiency and reliability to uphold the highest standards of quality assurance in software delivery.
-</p>
+
 
 ## 🛠️ My Stack
-
-<ul style="padding: 0; margin-left:40px">
-    <li>    
-        <div style="margin-top: 5px; display: flex; align-items:center;">
-            <strong style="margin-right:10px">Languages:</strong>
-            <a style="margin-right:10px" href="https://www.typescriptlang.org/docs/"><img src="https://asset.brandfetch.io/idKX_Hb7va/id1t_VNpUn.svg" alt="TypeScript" width="40" height="40"></a>
-            <a style="margin-right:10px" href="https://docs.oracle.com/en/java/"><img src="https://asset.brandfetch.io/id6uEhoiBT/idJdbKiNbX.svg" alt="Java" width="40" height="40"></a>
-        </div>
-    </li>
-    <li>
-        <div style="margin-top: 5px; display: flex; align-items:center;">
-            <strong style="margin-right:10px">Automation Tools:</strong>
-            <a style="margin-right:10px" href="https://webdriver.io/docs/gettingstarted.html"><img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg" alt="WebdriverIO" width="40" height="40"></a>
-            <a style="margin-right:10px" href="https://www.selenium.dev/documentation/en/"><img src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg" alt="Selenium" width="40" height="40"></a>
-            <a style="margin-right:10px" href="https://appium.io/docs/en/about-appium/intro/"><img src="https://asset.brandfetch.io/idPkBuZoKM/id2L3ItCMy.png" alt="Appium" width="40" height="40"></a>
-        </div>
-    </li>
-    <li>
-        <div style="margin-top: 5px;  display: flex; align-items:center;">
-            <strong style="margin-right:10px">CI/CD:</strong>
-            <a style="margin-right:10px" href="https://www.jenkins.io/doc/"><img src="https://img.icons8.com/color/452/jenkins.png" alt="Jenkins" width="45" height="45"></a>
-        </div>
-    </li>
-    <li>
-        <div style="margin-top: 5px;  display: flex; align-items:center;">
-            <strong style="margin-right:10px">Version Control:</strong>
-            <a style="margin-right:10px" href="https://git-scm.com/doc"><img src="https://img.icons8.com/color/452/git.png" alt="Git" width="45" height="45"></a>
-        </div>
-    </li>
-</ul>
-
+- <h5><strong>Languages:&nbsp;</strong><a href="https://www.typescriptlang.org/docs/"><img align="center" height="40" alt="TypeScript" src="https://asset.brandfetch.io/idKX_Hb7va/id1t_VNpUn.svg"></a>&nbsp;<a href="https://docs.oracle.com/en/java/"><img align="center" height="40" alt="Java" src="https://asset.brandfetch.io/id6uEhoiBT/idJdbKiNbX.svg"></a></h5>
+- <h5><strong>Automation Tools:&nbsp;</strong><a href="https://webdriver.io/docs/gettingstarted.html"><img align="center" height="40" alt="WebdriverIO" src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg"></a>&nbsp;<a href="https://www.selenium.dev/documentation/en/"><img align="center" height="40" alt="Selenium" src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg"></a>&nbsp;<a href="https://appium.io/docs/en/about-appium/intro/"><img align="center" height="40" alt="Appium" src="https://asset.brandfetch.io/idPkBuZoKM/id2L3ItCMy.png"></a></h5>
+- <h5><strong>CI/CD:&nbsp;</strong><a href="https://www.jenkins.io/doc/"><img align="center" height="40" alt="Jenkins" src="https://img.icons8.com/color/452/jenkins.png"></a></h5>
+- <h5><strong>Version Control:&nbsp;</strong><a href="https://git-scm.com/doc"><img align="center" height="40" alt="Git" src="https://img.icons8.com/color/452/git.png"></a></h5>
 
 ## 💡 My Projects
 
@@ -60,35 +30,9 @@ Responsible for designing, developing, and maintaining automated test suites cus
 
 ## 📫 Let's Connect!
 
-<ul style="padding: 0; margin-left:40px;">
-    <li>    
-        <div style="margin-top: 5px; display: flex; align-items:center;">
-            <p style="visibility:hidden; margin-left:-10px">0</p>
-            <a style="margin-right:10px; color: inherit;" href="https://www.linkedin.com/in/sebastian-pigulski-340128232/">
-                <img src="https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg" alt="LinkedIn" width="40" height="40">
-                <p style="margin-right:10px">Sebastian Pigulski</strong>
-            </a>
-        </div>
-    </li>
-    <li>
-        <div style="margin-top: 5px;  display: flex; align-items:center;">
-            <p style="visibility:hidden; margin-left:-10px">0</p>
-            <a style="margin-right:10px; color: inherit;" href="mailto:sebastianpigulski2@gmail.com">
-                <img src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg" alt="Email" width="45" height="45">
-                <p style="margin-right:10px">sebastianpigulski2@gmail.com</strong>
-            </a>
-        </div>
-    </li>
-    <li>
-        <div style="margin-top: 5px;  display: flex; align-items:center;">
-            <p style="visibility:hidden; margin-left:-10px">0</p>
-            <a style="margin-right:10px;color: inherit;" href="https://git-scm.com/doc">
-                <img src="https://asset.brandfetch.io/idZAyF9rlg/id6a3YYV60.svg" alt="Github" width="45" height="45">
-                <p style="margin-right:10px">sebap09</strong>
-            </a>
-        </div>
-    </li>
-</ul>
+- <h5><a href="https://www.linkedin.com/in/sebastian-pigulski-340128232/"><img align="center" height="40" src="https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg">&nbsp;Sebastian Pigulski</h5></a>
+- <h5><a href="mailto:sebastianpigulski2@gmail.com"><img align="center" height="40" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg">&nbsp;&nbsp;sebastianpigulski2@gmail.com</h5></a>
+- <h5><a href="https://github.com/sebap09"><img align="center" height="40" style="fill:white" fill="white" src="https://asset.brandfetch.io/idZAyF9rlg/id6a3YYV60.svg">&nbsp;&nbsp;sebap09</h5></a>
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about test automation and Salesforce!
 
