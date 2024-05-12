@@ -17,7 +17,7 @@ Responsible for designing, developing, and maintaining automated test suites cus
 
 
 ## 🛠️ My Stack
-- <h5><strong>Languages:&nbsp;</strong><a href="https://www.typescriptlang.org/docs/"><img align="center" height="40" alt="TypeScript" src="https://asset.brandfetch.io/idKX_Hb7va/id1t_VNpUn.svg"></a>&nbsp;<a href="https://docs.oracle.com/en/java/"><img align="center" height="40" alt="Java" src="https://asset.brandfetch.io/id6uEhoiBT/idJdbKiNbX.svg"></a></h5>
+- <h5><strong>Languages:&nbsp;</strong><a href="https://www.typescriptlang.org/docs/"><img align="center" height="40" alt="TypeScript" src="https://asset.brandfetch.io/idKX_Hb7va/id1t_VNpUn.svg"></a>&nbsp;<a href="https://docs.oracle.com/en/java/"><img align="center" height="40" alt="Java" src="https://skillicons.dev/icons?i=java&theme=light"></a></h5>
 - <h5><strong>Automation Tools:&nbsp;</strong><a href="https://webdriver.io/docs/gettingstarted.html"><img align="center" height="40" alt="WebdriverIO" src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg"></a>&nbsp;<a href="https://www.selenium.dev/documentation/en/"><img align="center" height="40" alt="Selenium" src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg"></a>&nbsp;<a href="https://appium.io/docs/en/about-appium/intro/"><img align="center" height="40" alt="Appium" src="https://asset.brandfetch.io/idPkBuZoKM/id2L3ItCMy.png"></a></h5>
 - <h5><strong>CI/CD:&nbsp;</strong><a href="https://www.jenkins.io/doc/"><img align="center" height="40" alt="Jenkins" src="https://img.icons8.com/color/452/jenkins.png"></a></h5>
 - <h5><strong>Version Control:&nbsp;</strong><a href="https://git-scm.com/doc"><img align="center" height="40" alt="Git" src="https://img.icons8.com/color/452/git.png"></a></h5>
@@ -32,7 +32,7 @@ Responsible for designing, developing, and maintaining automated test suites cus
 
 - <h5><a href="https://www.linkedin.com/in/sebastian-pigulski-340128232/"><img align="center" height="40" src="https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg">&nbsp;Sebastian Pigulski</h5></a>
 - <h5><a href="mailto:sebastianpigulski2@gmail.com"><img align="center" height="40" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg">&nbsp;&nbsp;sebastianpigulski2@gmail.com</h5></a>
-- <h5><a href="https://github.com/sebap09"><img align="center" height="40" style="fill:white" fill="white" src="https://asset.brandfetch.io/idZAyF9rlg/id6a3YYV60.svg">&nbsp;&nbsp;sebap09</h5></a>
+- <h5><a href="https://github.com/sebap09"><img align="center" height="40" src="https://skillicons.dev/icons?i=github&theme=light">&nbsp;&nbsp;sebap09</h5></a>
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about test automation and Salesforce!
 
