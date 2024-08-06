@@ -22,12 +22,6 @@ Responsible for designing, developing, and maintaining automated test suites cus
 - <h5><strong>CI/CD:&nbsp;</strong><a href="https://www.jenkins.io/doc/"><img align="center" height="40" alt="Jenkins" src="https://img.icons8.com/color/452/jenkins.png"></a></h5>
 - <h5><strong>Version Control:&nbsp;</strong><a href="https://git-scm.com/doc"><img align="center" height="40" alt="Git" src="https://img.icons8.com/color/452/git.png"></a></h5>
 
-## 💡 My Projects
-
-- **[Salesforce Test Automation Repository - Alpha](https://github.com/sebap09/test-automation-salesforce-alpha)** - Repository, named "Alpha", is dedicated to automating tests on the Salesforce platform using TypeScript, Cucumber, and WebdriverIO. 
-- **Salesforce Test Automation Repository - Beta** - This repository, named "Beta", is dedicated to automating tests on the Salesforce platform using Java and Selenium (currently under construction).
-
-
 ## 📫 Let's Connect!
 
 - <h5><a href="https://www.linkedin.com/in/sebastian-pigulski-340128232/"><img align="center" height="40" src="https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg">&nbsp;Sebastian Pigulski</h5></a>
