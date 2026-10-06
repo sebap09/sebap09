@@ -1,32 +1,100 @@
 # Hi there, I'm Sebastian! 👋
 
-I'm a Test Automation Developer with about 2 years of commercial experience. My passion lies in automating tests for the Salesforce platform, both web and mobile applications. I specialize in using TypeScript and Java to create robust and efficient automated test suites. In my free time, I enjoy going for a jog, playing games and watching cult series.
+### Test Automation Engineer → Java Backend Developer
 
-## 🌍 My Domain
+I'm a Test Automation Engineer with 4+ years of commercial experience, currently transitioning into **Java backend development**.
 
-- **Test Automation**: I specialize in creating automated test scripts for Salesforce applications using tools like WebdriverIO and Appium.
-- **Salesforce Platform**: I have extensive experience in testing various aspects of the Salesforce platform, including web and mobile applications.
-- **Programming Languages**: My primary programming languages are TypeScript and Java, which I use to develop scalable and maintainable test automation solutions.
-- **CI/CD**: I have experience setting up continuous integration and continuous deployment pipelines to automate the testing process and ensure fast feedback loops.
+In my professional work, I use **Java, TypeScript, WebdriverIO, Appium and Jenkins** to build and maintain automated testing solutions for enterprise applications.
 
-## 💼 My Experience
+Outside of work, I'm focusing on backend development with **Java and Spring Boot**, building projects that allow me to deepen my experience with REST APIs, databases, security, testing and containerization.
 
-**Test Automation Developer** (Since August 2022):
+---
 
-Responsible for designing, developing, and maintaining automated test suites customized for Salesforce applications. Creating robust CI/CD pipelines using Jenkins to ensure continuous integration and testing throughout the development lifecycle. Automating test scenarios for both mobile and web platforms, leveraging industry-leading frameworks such as Appium and WebdriverIO. Optimizing test efficiency and reliability to uphold the highest standards of quality assurance in software delivery.
+## 🚀 Backend Development
 
+### 📌 Easy Expenses API
 
-## 🛠️ My Stack
-- <h5><strong>Languages:&nbsp;</strong><a href="https://www.typescriptlang.org/docs/"><img align="center" height="40" alt="TypeScript" src="https://asset.brandfetch.io/idKX_Hb7va/id1t_VNpUn.svg"></a>&nbsp;<a href="https://docs.oracle.com/en/java/"><img align="center" height="40" alt="Java" src="https://skillicons.dev/icons?i=java&theme=light"></a></h5>
-- <h5><strong>Automation Tools:&nbsp;</strong><a href="https://webdriver.io/docs/gettingstarted.html"><img align="center" height="40" alt="WebdriverIO" src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg"></a>&nbsp;<a href="https://www.selenium.dev/documentation/en/"><img align="center" height="40" alt="Selenium" src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg"></a>&nbsp;<a href="https://appium.io/docs/en/about-appium/intro/"><img align="center" height="40" alt="Appium" src="https://asset.brandfetch.io/idPkBuZoKM/id2L3ItCMy.png"></a></h5>
-- <h5><strong>CI/CD:&nbsp;</strong><a href="https://www.jenkins.io/doc/"><img align="center" height="40" alt="Jenkins" src="https://img.icons8.com/color/452/jenkins.png"></a></h5>
-- <h5><strong>Version Control:&nbsp;</strong><a href="https://git-scm.com/doc"><img align="center" height="40" alt="Git" src="https://img.icons8.com/color/452/git.png"></a></h5>
+**Java 25 · Spring Boot 4 · PostgreSQL 18 · JPA/Hibernate · Keycloak · OAuth2 · Flyway · Testcontainers · Docker Compose**
 
-## 📫 Let's Connect!
+A REST API for managing personal expenses, including expense categories, payment methods, and expense history.
+
+**Highlights:**
+
+* REST API built with Spring Boot
+* PostgreSQL persistence with Spring Data JPA / Hibernate
+* OAuth2 authentication and authorization with Keycloak
+* Database versioning with Flyway
+* Integration testing with Testcontainers and PostgreSQL
+* API documentation with OpenAPI / Swagger
+* Containerized development environment with Docker Compose
+
+👉 [View project](https://github.com/sebap09/easy-expenses-api)
+
+---
+
+## 💼 Professional Experience
+
+### Test Automation Engineer
+
+**August 2022 – Present**
+
+* Developing and maintaining automated test suites for Salesforce applications.
+* Writing automation solutions using **Java and TypeScript**.
+* Automating web and mobile applications with **WebdriverIO, Selenium and Appium**.
+* Creating and maintaining **CI/CD pipelines with Jenkins**.
+* Working with **Git** and collaborative development workflows.
+* Improving test reliability, maintainability and execution time.
+* Working with complex enterprise applications and collaborating with developers, QA engineers and other teams.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* **Java**
+* **Spring Boot**
+* **Spring Data JPA / Hibernate**
+* **REST API**
+* **PostgreSQL**
+* **Flyway**
+* **Keycloak**
+* **OAuth2**
+
+### Testing
+
+* **JUnit**
+* **Mockito**
+* **Testcontainers**
+* **Selenium**
+* **Appium**
+* **WebdriverIO**
+
+### DevOps & Tools
+
+* **Docker / Docker Compose**
+* **Jenkins**
+* **Git**
+* **Maven**
+* **OpenAPI / Swagger**
+
+### Also Experienced With
+
+* **TypeScript**
+* **Salesforce Platform**
+
+---
+
+## 🎯 Career Goal
+
+I'm looking for an opportunity to move into **Java backend development**, where I can combine my existing experience in software development, test automation and CI/CD with my growing backend development experience.
+
+I'm particularly interested in building **REST APIs, backend services and reliable, well-tested applications** using Java and Spring Boot.
+
+---
+
+## 📫 Let's Connect
 
 - <h5><a href="https://www.linkedin.com/in/sebastian-pigulski-340128232/"><img align="center" height="40" src="https://asset.brandfetch.io/idJFz6sAsl/id18wpWxxf.svg">&nbsp;Sebastian Pigulski</h5></a>
 - <h5><a href="mailto:sebastianpigulski2@gmail.com"><img align="center" height="40" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg">&nbsp;&nbsp;sebastianpigulski2@gmail.com</h5></a>
 - <h5><a href="https://github.com/sebap09"><img align="center" height="40" src="https://skillicons.dev/icons?i=github&theme=light">&nbsp;&nbsp;sebap09</h5></a>
-
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about test automation and Salesforce!
-
